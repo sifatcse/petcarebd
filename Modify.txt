@@ -1,0 +1,27 @@
+<!DOCTYPE>
+<html>
+<body>
+<head>
+<style>
+
+
+/* Style the footer */
+ .footer {
+  background-color: #ffe6f0;
+  padding: 15px;
+  text-align: center;
+  
+} 
+
+</style>
+</head>
+<body>
+
+<div class="footer">
+<h1>About us</h1>
+<p>Our goal is to care your pet. Provide all you need for your pet</p>
+</div>
+
+
+</body>
+</html>
